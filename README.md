@@ -1,1 +1,1 @@
-# third_course_sem
+# third_course_2sem
