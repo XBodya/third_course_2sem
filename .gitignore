@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# env dir
+.env
+
+# test files for input/output
+.testfile
