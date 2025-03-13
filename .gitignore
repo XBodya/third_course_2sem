@@ -37,4 +37,12 @@
 # test files for input/output
 .testfile
 
+# PyCharm
 .idea
+
+# Visual Studio
+.vs
+*.user
+*.vcxproj
+Debug
+*.sln
