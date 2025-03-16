@@ -19,5 +19,8 @@ $$x \frac{d^2v}{dx^2} + γ \frac{dv}
 самостоятельно.
 
 
-## [ЛР02](res/LR02.pdf)
-## [ЛР03](res/LR03.pdf)
+## [ЛР02](res/LR02.pdf) | [Решение](src/l02.ipynb) | [Условие](res/LR02.pdf)
+
+![решение](res/l02_3.gif)
+
+## [ЛР03](res/LR03.pdf) | [Решение](src/l03.ipynb) | [Условие](res/LR03.pdf)
