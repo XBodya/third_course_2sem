@@ -46,3 +46,18 @@
 *.vcxproj
 Debug
 *.sln
+
+# CUDA
+*.deps
+*.cache
+*.recipe
+
+# Logging
+*.log
+*.tlog
+
+# Databases
+*.pdb
+
+# ???
+*.exp

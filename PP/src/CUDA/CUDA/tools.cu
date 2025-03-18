@@ -27,3 +27,6 @@ void printDevicesInformation() {
         printf("  Concurrent computation/communication: %s\n\n", prop.deviceOverlap ? "yes" : "no");
     }
 }
+
+
+
