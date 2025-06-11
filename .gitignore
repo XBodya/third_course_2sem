@@ -63,3 +63,7 @@ Debug
 *.exp
 
 _*.*
+
+.env/
+.venv/
+venv
